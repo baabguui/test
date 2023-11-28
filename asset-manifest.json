@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/baabguui/test.git/static/js/main.a6389561.js",
-    "index.html": "/baabguui/test.git/index.html",
-    "main.a6389561.js.map": "/baabguui/test.git/static/js/main.a6389561.js.map"
+    "main.js": "/baabguui/test/static/js/main.cc40c0b3.js",
+    "index.html": "/baabguui/test/index.html",
+    "main.cc40c0b3.js.map": "/baabguui/test/static/js/main.cc40c0b3.js.map"
   },
   "entrypoints": [
-    "static/js/main.a6389561.js"
+    "static/js/main.cc40c0b3.js"
   ]
 }
